@@ -1,14 +1,18 @@
 {
-    "name": "bvtterfly/model-state-machine",
-    "description": "Laravel Model State Machine",
+    "name": "canyongbs/model-state-machine",
+    "description": "Model State Machine",
     "keywords": [
         "bvtterfly",
         "laravel",
         "model-state-machine"
     ],
-    "homepage": "https://github.com/bvtterfly/model-state-machine",
+    "homepage": "https://github.com/canyongbs/model-state-machin",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Canyon GBS",
+            "role": "Developers and Maintainers"
+        },
         {
             "name": "Ari",
             "email": "thearihdrn@gmail.com",
