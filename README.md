@@ -5,7 +5,7 @@ This package adds support for creating state machines for attributes on Laravel 
 ## Requirements
 
 - PHP 8.2 or higher
-- Laravel 11.x or higher
+- Laravel 10.x or higher
 
 ## Installation
 
